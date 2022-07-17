@@ -1,14 +1,12 @@
 name: aws_demo
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - bokeh
   - holoviews
   - numpy
   - pandas
   - panel
-  - parquet
   - jupyterlab
   - pip
   - pyarrow
@@ -16,3 +14,5 @@ dependencies:
   - spacy
   - datasets
   - scikit-learn
+  - pip:
+    - parquet
