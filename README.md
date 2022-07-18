@@ -12,3 +12,8 @@ Welcome to this short NLP Tutorial using SageMaker. To follow along, please foll
 8. In the "Git repositories" section, add the url of this repo.
 9. Click "Create notebook instance".
 10. Open up **lesson.ipynb** and begin the lesson.
+
+
+To run the tutorial in an isolated environment, please use the following link.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ramonpzg/sagemaker_test/main)
