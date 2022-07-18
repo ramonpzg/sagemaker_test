@@ -4,7 +4,7 @@ Welcome to this short NLP Tutorial using SageMaker. To follow along, please foll
 
 1. Go to AWS and sign into your account.
 2. Navigate to SageMaker.
-3. Click on "Notebook > Notebook instances" on the left.
+3. Click on "Notebook > Notebook instances" on the left or on SageMaker Studio.
 4. Click "Create notebook instance" on the right hand corner.
 5. Give it a name where it says "Notebook instance name"
 6. Where it says "Notebook instance type" select an **ml.t2.2xlarge**.
